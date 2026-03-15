@@ -16,7 +16,7 @@ frame.pack(expand=True)
 # 버튼 생성
 hello_button = tk.Button(
     frame, 
-    text="클릭해보세요!", 
+    text="클릭해보세요!!!!!", 
     command=say_hello,
     padx=20,
     pady=10,
